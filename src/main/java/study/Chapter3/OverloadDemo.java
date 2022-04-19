@@ -11,13 +11,11 @@ public class OverloadDemo {
 
     }
     public static int max(int n1, int n2){
-        int result = n1 > n2 ? n1 : n2;
-        return result;
+        return n1 > n2 ? n1 : n2;
     }
 
     public static double max(double n1, double n2){
-        double result = n1 > n2 ? n1 : n2;
-        return result;
+        return n1 > n2 ? n1 : n2;
     }
 
     public static int max(int n1, int n2, int n3) {
