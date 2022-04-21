@@ -1,4 +1,4 @@
-package study.chapter6.chapter7;
+package study.chapter7;
 
 class Rectangle extends Shape{
     int x, y;
