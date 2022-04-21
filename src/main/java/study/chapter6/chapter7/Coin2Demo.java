@@ -1,4 +1,4 @@
-package study.chapter7;
+package study.chapter6.chapter7;
 
 public class Coin2Demo implements Coin{
     public static void main(String[] args) {

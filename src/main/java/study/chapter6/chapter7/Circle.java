@@ -1,4 +1,4 @@
-package study.chapter7;
+package study.chapter6.chapter7;
 
 class Circle extends Shape {
     int radius;
